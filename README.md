@@ -1,4 +1,4 @@
-# 2021-
+# 2021TJUThesisLatexTemplate-
 2021届天津大学最新毕设latex模板。
 
 tjuthesis 的原作者们作出了前人栽树的不可磨灭的贡献：
